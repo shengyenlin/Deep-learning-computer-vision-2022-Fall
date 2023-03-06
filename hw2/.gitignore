@@ -1,0 +1,26 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specified below
+
+hw2_data/*
+*png
+*jpg
+*ckpt
+*csv
+p2_other/*
+p1_report.ipynb
+p2_report.ipynb
+p2_reproduce.txt
+p2_test_rand.sh
+cache/*
+ckpt/*
+test/*
+p2_other/*
+Classifier.pth
+digit_classifier.py
+requirements_DLCV2.txt
+p1.ipynb
+p2.ipynb
+p3.ipynb
+digit_classifier.py
+Classifier.pth
+__MACOSX/*

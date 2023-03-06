@@ -19,10 +19,11 @@ Couse website: http://vllab.ee.ntu.edu.tw/dlcv.html
 
 ## Home work assignments
 - HW1: 
-  - Image classification: Implementd CNN, Resnet15, and used PCA and t-SNE to visualize learned visaul representation
-  - Semantic segmentation: Implemented VGG16-FCN32, SegFormer (b1), visualized predicted segmentation mask
+  - Image classification: Implement CNN, Resnet15, and use PCA and t-SNE to visualize learned visaul representation
+  - Semantic segmentation: Implement VGG16-FCN32, SegFormer (b1), visualize predicted segmentation mask
 - HW2:
-  - 
+  - Image generation: Implement Generative adversarial models, diffusion models
+  - Unsupervised Domain Adaptation (UDA): Implement DANN, visualize the latent space of DANN by mapping the validation images to 2D space with t-SNE, color data point by class and by domain
 - HW3:
 - HW4:
 

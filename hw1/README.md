@@ -1,13 +1,15 @@
 # HW1
 
+Refer to report file `hw1_r11922a05.pdf` for model performance, experiement results, observation and discussions.
+
 ## Problem 1: Image classificaion
 - Train a CNN model from scratch
-- Use ResNet152 to improve the previous model
+- Improved model: ResNet152 - [pytorch model descrption]([https://pytorch.org/vision/main/models/generated/torchvision.models.resnet152.html])
 - Visualize learned visual representation of second last layer by PCA and t-SNE
 
 ## Problem 2: Semantic segmentation
 - Implement VGG16 + FCN32s (baseline model)
-- Improved model: Segformer-b1-finetuned-ade-512-512, [hugging face](https://huggingface.co/nvidia/segformer-b1-finetuned-ade-512-512)
+- Improved model: Segformer-b1-finetuned-ade-512-512 -  [hugging face](https://huggingface.co/nvidia/segformer-b1-finetuned-ade-512-512)
 
 ---
 
