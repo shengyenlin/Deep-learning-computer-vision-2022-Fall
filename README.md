@@ -27,7 +27,9 @@ Couse website: http://vllab.ee.ntu.edu.tw/dlcv.html
 - HW3
   - Zero-shot image classification: Use CLIP 
   - Image Captioning with Vision and Language Model: Implement ViT, Transformer decoder models and an evaluation metric CLIPScore
-- HW4:
+- HW4
+  - 3D Novel View Synthesis with NeRF and DVGO
+  - Self-supervised Pre-training for Image Classification with BYOL and Barlow Twins
 
 You could find more details in the directory of each homework.
 
