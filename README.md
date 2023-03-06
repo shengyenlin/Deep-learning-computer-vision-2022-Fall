@@ -24,7 +24,9 @@ Couse website: http://vllab.ee.ntu.edu.tw/dlcv.html
 - HW2:
   - Image generation: Implement Generative adversarial models, diffusion models
   - Unsupervised Domain Adaptation (UDA): Implement DANN, visualize the latent space of DANN by mapping the validation images to 2D space with t-SNE, color data point by class and by domain
-- HW3:
+- HW3
+  - Zero-shot image classification: Use CLIP 
+  - Image Captioning with Vision and Language Model: Implement ViT, Transformer decoder models and an evaluation metric CLIPScore
 - HW4:
 
 You could find more details in the directory of each homework.

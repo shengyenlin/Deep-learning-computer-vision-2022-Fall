@@ -1,0 +1,12 @@
+hw3_data/*
+ckpt/*
+cache/*
+*.json
+__pycache__/*
+pics/*
+p2_to_gt.py
+p2_test.ipynb
+p2.ipynb
+predict.py
+*.ckpt
+p2.ckpt
