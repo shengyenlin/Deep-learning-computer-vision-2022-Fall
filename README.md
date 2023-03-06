@@ -17,7 +17,7 @@ Couse website: http://vllab.ee.ntu.edu.tw/dlcv.html
 - 3D Vision
 - Softskill workshop about finding AI-related jobs and CV writing
 
-## Home work assignments
+## Homework assignments
 - HW1: 
   - Image classification: Implement CNN, Resnet15, and use PCA and t-SNE to visualize learned visaul representation
   - Semantic segmentation: Implement VGG16-FCN32, SegFormer (b1), visualize predicted segmentation mask
