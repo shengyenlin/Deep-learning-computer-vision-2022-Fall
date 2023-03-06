@@ -1,9 +1,0 @@
-torch
-numpy
-tqdm
-yacs
-scipy
-plyfile
-tensorboard
-scikit-image
-trimesh
