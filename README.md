@@ -1,4 +1,4 @@
-# Deep-learning-computer-vision-2022-Fall
+# Deep learning in computer vision, 2022 Fall
 This is a graduate-level deep learning course which introduces several cutting-edge computer vision techniques. This repository contains my solutions to the homework as well as the final project.
 
 Couse website: http://vllab.ee.ntu.edu.tw/dlcv.html
