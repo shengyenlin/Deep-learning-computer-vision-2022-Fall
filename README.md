@@ -38,3 +38,4 @@ You could find more details in the directory of each homework.
 - Task: 3D Indoor Scene Long Tail Segmentation
 - Won the second place in the final competition
 - Implement mix 3d data augmentation techniques in our team
+- [Collaborative google drive](https://drive.google.com/drive/folders/1Ua5AHQ6vMX6dwliH4GfFOzItQ-820vF2?usp=share_link)
