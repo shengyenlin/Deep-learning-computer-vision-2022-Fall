@@ -34,6 +34,7 @@ Couse website: http://vllab.ee.ntu.edu.tw/dlcv.html
 You could find more details in the directory of each homework.
 
 ## Final projects 
+- **Warning: I'm not the only contributor of the `final` directory, I just zip the original files and uploaded them.** We couldn't make the original repo public since the repo was created by the TAs of this class.  
 - Task: 3D Indoor Scene Long Tail Segmentation
 - Won the second place in the final competition
 - Implement mix 3d data augmentation techniques in our team
