@@ -2,6 +2,7 @@
 This is a graduate-level deep learning course which introduces several cutting-edge computer vision techniques. This repository contains my solutions to the homework as well as the final project.
 
 Couse website: http://vllab.ee.ntu.edu.tw/dlcv.html
+Professor: [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/ycwang.html), graduate institution of communication engineering @ National Taiwan University
 
 ## Course contents
 - Object Detection & Segmentation
