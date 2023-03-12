@@ -1,0 +1,14 @@
+python3 p2_train.py \
+    --image_size 224 \
+    --encoder_model_name vit_large_patch14_224_clip_laion2b \
+    --freeze_encoder 1 \
+    --decoder_n_head 8 \
+    --decoder_num_layers 6 \
+    --decoder_hid_dim 1024 \
+    --max_len 64 \
+    --train_batch_size 48 \
+    --val_batch_size 24 \
+    --optimizer AdamW \
+    --lr 2e-5 \
+    --num_epoch 30 \
+    --use_catr 0; 

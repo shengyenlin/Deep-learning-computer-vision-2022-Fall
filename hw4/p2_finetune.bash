@@ -1,0 +1,9 @@
+python3 p2_finetune.py \
+    --my_ssl_model_path cache/p2_pretrain/1209/1670573825/ep_500_loss_82.7577 \
+    --use_model mySSL \
+    --lr 1e-3 \
+    --train_batch_size 128 \
+    --val_batch_size 64 \
+    --num_workers 8 \
+    --num_epoch 1000 \
+    # --fix_backbone False;
