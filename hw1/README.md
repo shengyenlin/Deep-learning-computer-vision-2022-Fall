@@ -33,5 +33,7 @@ bash hw1_2.sh [--img_dir] [--output_dir]
 ```
 
 ## Check test result on valid set
-- p1: python3 p1_recheck.py [--img_dir] [--output_csv_path]
-- p2: python3 p2_recheck.py [--img_dir] [--output_dir]
+```bash
+python3 p1_recheck.py [--img_dir] [--output_csv_path]
+python3 p2_recheck.py [--img_dir] [--output_dir]
+```
