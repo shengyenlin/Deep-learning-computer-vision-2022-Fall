@@ -4,6 +4,8 @@ This is a graduate-level deep learning course which introduces several cutting-e
 - Couse website: http://vllab.ee.ntu.edu.tw/dlcv.html
 - Professor: [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/ycwang.html), graduate institution of communication engineering @ National Taiwan University
 
+Final score: 88.78 / 100 (A)
+
 ## Course contents
 - Object Detection & Segmentation
 - Generative Model
