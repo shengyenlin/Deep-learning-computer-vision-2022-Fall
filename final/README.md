@@ -10,7 +10,7 @@ Competition description: [link](https://docs.google.com/presentation/d/1Y-gwBmuc
 
 Link to competition: [Codalab](https://codalab.lisn.upsaclay.fr/competitions/8961?secret_key=0865b2c6-96da-4725-86a5-dd793d)
 
-Leaderboard: 5/15
+Leaderboard: 5/15 \
 Oral presentation: 2/15  
 
 ## Guildline
