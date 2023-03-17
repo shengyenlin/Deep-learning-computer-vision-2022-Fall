@@ -1,4 +1,17 @@
-# Guildline
+# DLCV final project - 3D Indoor Scene Long Tail Segmentation
+
+## Competition description
+
+The goal of this competition is to train a neural network to accurately classify the semantic labels of each point in a given 3D point cloud scene. The input for this competition will consist of a 3D point cloud scene, which includes the XYZ position and RGB color (optional) for each point. The output that you will be tasked with generating is a semantic class label for each point in the point cloud.
+
+## Competition result
+
+Link to competition: [Codalab](https://codalab.lisn.upsaclay.fr/competitions/8961?secret_key=0865b2c6-96da-4725-86a5-dd793d)
+
+Leaderboard: 5/15
+Oral presentation: 2/15  
+
+## Guildline
 
 To reproduce our result, please generate three predictions with OCNN, OCNN+pretraining and OCNN+mix3d, and use voting to get the final result.
 
